@@ -1,0 +1,11 @@
+ipykernel==6.28.0
+matplotlib==3.8.0
+numpy==1.26.4
+pandas==2.1.4
+scikit-learn==1.3.0
+seaborn==0.13.2
+
+# torch is device specific. check https://pytorch.org/get-started/locally/ to know more.
+# torch==2.2.0+cu121
+# torchaudio==2.2.0+cu121
+# torchvision==0.17.0+cu121
